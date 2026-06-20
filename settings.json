@@ -6,8 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ViralSMP.aternos.me
-",
+    "ip": "ViralSMP.aternos.me",
     "port": 16671,
     "version": "",
     "try-creative": false
